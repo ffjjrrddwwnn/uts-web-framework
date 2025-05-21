@@ -1,0 +1,1 @@
+-e "/vendor\n/node_modules\n.env" 
